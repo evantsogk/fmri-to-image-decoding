@@ -4,7 +4,7 @@ Image reconstruction from fMRI using a Generative Adversarial Network in PyTorch
 ### Training gifs for different datasets
 
 
-['69'](https://data.donders.ru.nl/collections/di/dcc/DSC_2018.00112_485?0):
+[69](https://data.donders.ru.nl/collections/di/dcc/DSC_2018.00112_485?0):
 
 ![](imgs/digits_gif.gif)
 
